@@ -1,0 +1,29 @@
+{
+  "format": "literature-radar-software-update/v2",
+  "schema_version": 2,
+  "product": "Literature Radar",
+  "channel": "stable",
+  "candidate": false,
+  "version": "0.9.5-beta",
+  "published_at": "2026-09-02T12:56:55.747149+00:00",
+  "expires_at": "2026-10-02T12:56:55.747149+00:00",
+  "sequence": 1,
+  "signing_key_id": "release-2026-primary",
+  "notes": "Literature Radar 0.9.5-beta 更新",
+  "release_kind": "minor",
+  "minimum_license_major": 1,
+  "rollout_percentage": 100,
+  "rollout_salt": "public-100",
+  "package_type": "full",
+  "package": {
+    "urls": [
+      "https://updates.literatureradar.com/Literature-Radar-0.9.5-beta-Windows.zip",
+      "https://gitee.com/literature-radar/001/raw/master/Literature-Radar-0.9.5-beta-Windows.zip"
+    ],
+    "sha256": "a65153b70284f229bd189143623c2e7b13b080a76126518912f57ffb9673e115",
+    "size_bytes": 363425317
+  },
+  "signatures": {
+    "release-2026-primary": "zu6CSPJT5hJBQgcxlBWxpI7ZDSLfAYMSPuvXJEkfUYIobIfG1gEgu16AOytkXFB2ATYedvC3Ai5zd51xpWvdAQ=="
+  }
+}
