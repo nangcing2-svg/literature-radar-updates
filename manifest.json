@@ -4,10 +4,10 @@
   "product": "Literature Radar",
   "channel": "stable",
   "candidate": false,
-  "version": "0.9.7-beta",
-  "published_at": "2026-09-03T03:12:36.909235+00:00",
-  "expires_at": "2026-10-03T03:12:36.909235+00:00",
-  "sequence": 4,
+  "version": "0.9.8-beta",
+  "published_at": "2026-09-03T05:14:12.247315+00:00",
+  "expires_at": "2026-10-03T05:14:12.247315+00:00",
+  "sequence": 5,
   "signing_key_id": "release-2026-primary",
   "notes": "Signed automatic-update release with primary and backup sources.",
   "release_kind": "patch",
@@ -17,13 +17,13 @@
   "package_type": "full",
   "package": {
     "urls": [
-      "https://updates.literatureradar.com/Literature-Radar-0.9.7-beta-Windows.zip",
-      "https://github.com/nangcing2-svg/literature-radar-updates/releases/download/v0.9.7-beta/Literature-Radar-0.9.7-beta-Windows.zip"
+      "https://updates.literatureradar.com/Literature-Radar-0.9.8-beta-Windows.zip",
+      "https://github.com/nangcing2-svg/literature-radar-updates/releases/download/v0.9.8-beta/Literature-Radar-0.9.8-beta-Windows.zip"
     ],
-    "sha256": "e5275f7d79a112f0a0e3ce822d3cb8bebeb3c1fcc1742cd14c02837e8a58a36c",
-    "size_bytes": 363425488
+    "sha256": "33246ddd5b121642470d6d2dd87e3b59b0cdee64f21f99ddb28cb652eef84893",
+    "size_bytes": 363425489
   },
   "signatures": {
-    "release-2026-primary": "eesxu3HOu+xvY1H02K3+7UGPy0m8OyvcvWr6fHs077/jMH260hcphRusIHyBpO1aH6iUImxpYods3q4rl7/VBg=="
+    "release-2026-primary": "HSP5XYa8CtEkxVviAnFBNr1cNb+Z/zSRUzJgNcT1m789RY/bmRfeZ1R4Wise0/rqlbUptzdcZVgrXxn0LgQ9BA=="
   }
 }
