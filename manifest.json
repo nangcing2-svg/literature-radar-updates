@@ -4,26 +4,26 @@
   "product": "Literature Radar",
   "channel": "stable",
   "candidate": false,
-  "version": "0.9.5-beta",
-  "published_at": "2026-09-02T12:56:55.747149+00:00",
-  "expires_at": "2026-10-02T12:56:55.747149+00:00",
-  "sequence": 1,
+  "version": "0.9.6-beta",
+  "published_at": "2026-09-03T02:03:04.099641+00:00",
+  "expires_at": "2026-10-03T02:03:04.099641+00:00",
+  "sequence": 3,
   "signing_key_id": "release-2026-primary",
-  "notes": "Literature Radar 0.9.5-beta 更新",
-  "release_kind": "minor",
+  "notes": "Literature Radar 0.9.6-beta update: signed dual-source software update is enabled.",
+  "release_kind": "patch",
   "minimum_license_major": 1,
   "rollout_percentage": 100,
   "rollout_salt": "public-100",
   "package_type": "full",
   "package": {
     "urls": [
-      "https://updates.literatureradar.com/Literature-Radar-0.9.5-beta-Windows.zip",
-      "https://gitee.com/literature-radar/001/raw/master/Literature-Radar-0.9.5-beta-Windows.zip"
+      "https://updates.literatureradar.com/Literature-Radar-0.9.6-beta-Windows.zip",
+      "https://github.com/nangcing2-svg/literature-radar-updates/releases/download/v0.9.6-beta/Literature-Radar-0.9.6-beta-Windows.zip"
     ],
-    "sha256": "a65153b70284f229bd189143623c2e7b13b080a76126518912f57ffb9673e115",
-    "size_bytes": 363425317
+    "sha256": "24b29768f13e44f77276b91f79b0b32a5489932176e6e6203ec73b9c255929bb",
+    "size_bytes": 363425333
   },
   "signatures": {
-    "release-2026-primary": "zu6CSPJT5hJBQgcxlBWxpI7ZDSLfAYMSPuvXJEkfUYIobIfG1gEgu16AOytkXFB2ATYedvC3Ai5zd51xpWvdAQ=="
+    "release-2026-primary": "BXE9488p8R26080DofiTIwJUmTUkTD31cir2bWK2qXzdQythMfRWaLLWkR70Q3E+sO7N/XwV+tuTF6GO9FMADg=="
   }
 }
