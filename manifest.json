@@ -4,12 +4,12 @@
   "product": "Literature Radar",
   "channel": "stable",
   "candidate": false,
-  "version": "0.9.8-beta",
-  "published_at": "2026-09-03T07:41:38.101763+00:00",
-  "expires_at": "2026-10-03T07:41:38.101763+00:00",
-  "sequence": 7,
+  "version": "0.9.9-beta",
+  "published_at": "2026-09-20T12:55:39.443971+00:00",
+  "expires_at": "2026-10-20T12:55:39.443971+00:00",
+  "sequence": 8,
   "signing_key_id": "release-2026-primary",
-  "notes": "Signed automatic-update release with primary and backup sources.",
+  "notes": "修复设置按钮与文件选择无响应、软件更新检查长期转圈和分析进度长期为 0；新增多项目定期文献更新，并自动清理过期程序回退副本与更新缓存。",
   "release_kind": "patch",
   "minimum_license_major": 1,
   "rollout_percentage": 100,
@@ -17,14 +17,13 @@
   "package_type": "full",
   "package": {
     "urls": [
-      "https://updates.literatureradar.com/Literature-Radar-0.9.8-beta-Windows.zip",
-      "https://github.com/nangcing2-svg/literature-radar-updates/releases/download/v0.9.8-beta/Literature-Radar-0.9.8-beta-Windows-final.zip"
+      "https://updates.literatureradar.com/Literature-Radar-0.9.9-beta-Windows.zip",
+      "https://github.com/nangcing2-svg/literature-radar-updates/releases/download/v0.9.9-beta/Literature-Radar-0.9.9-beta-Windows-final.zip"
     ],
-    "sha256": "3feb81ac4179bba66f0ae9ea93cf7502d06e889b9c83d2a9b310bceaa7d5a9db",
-    "size_bytes": 363425490
+    "sha256": "2c1ca1a8e0a1109c59ef5bc671b2b87303274ebf9fa8341769f0b72019041d56",
+    "size_bytes": 363434532
   },
   "signatures": {
-    "release-2026-primary": "Rjg2+B2GakhFthlh9KZdmZ4szXV6CDHOEKIJhHCZ760cF2Tm/mBg2RKB8rEYgtssD+gotVPWBl3eo2+5vZYWAw=="
+    "release-2026-primary": "FwjK+PWky0lLSypoaBKnKqe684XBPXwONfLfTGAkReG/u1ExQQELp0n/swrCy2b/rDdH96Jd/CQHxy1Srq+QAw=="
   }
 }
-
