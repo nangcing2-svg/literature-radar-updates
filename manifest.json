@@ -4,12 +4,12 @@
   "product": "Literature Radar",
   "channel": "stable",
   "candidate": false,
-  "version": "0.9.9-beta",
-  "published_at": "2026-09-20T13:54:55.906816+00:00",
-  "expires_at": "2026-10-20T13:54:55.906816+00:00",
-  "sequence": 9,
+  "version": "0.9.10-beta",
+  "published_at": "2026-09-24T09:07:31.048279+00:00",
+  "expires_at": "2026-10-24T09:07:31.048279+00:00",
+  "sequence": 10,
   "signing_key_id": "release-2026-primary",
-  "notes": "修复设置按钮、文件夹选择、未处理文件分析进度与更新检查；新增多项目自动更新选择，并优化更新文件清理。",
+  "notes": "修复批量处理范围、设置按钮与分析进度；内置期刊指标数据；提升开放 PDF 获取；完善 Zotero 相关度、分享提示和自动更新；Bridge 1.4.4 兼容 Zotero 10。",
   "release_kind": "patch",
   "minimum_license_major": 1,
   "rollout_percentage": 100,
@@ -17,13 +17,13 @@
   "package_type": "full",
   "package": {
     "urls": [
-      "https://updates.literatureradar.com/Literature-Radar-0.9.9-beta-Windows-update.zip",
-      "https://github.com/nangcing2-svg/literature-radar-updates/releases/download/v0.9.9-beta/Literature-Radar-0.9.9-beta-Windows-update.zip"
+      "https://updates.literatureradar.com/Literature-Radar-0.9.10-beta-Windows-update.zip",
+      "https://github.com/nangcing2-svg/literature-radar-updates/releases/download/v0.9.10-beta/Literature-Radar-0.9.10-beta-Windows-update.zip"
     ],
-    "sha256": "c785bc952aa66959f8346f58f651e9de38643fc9a9b30e6d4a50c0fc9afe544f",
-    "size_bytes": 285859654
+    "sha256": "8db08e310eef214a3fbbb367cc1d1c95a881f3eb9270ce8d6fecbcbe468172e7",
+    "size_bytes": 288150307
   },
   "signatures": {
-    "release-2026-primary": "IDmOUy98bVzhTBgoV/u1tdKVmpOvKBIBDlJWBEBlgsWHH6X4sL2L4Fj8q7CuyNYjkcAD4nMQj4hntAj7CJvvCA=="
+    "release-2026-primary": "JutJXRy/pGR/aHs+O7G+LRC0yY1+4fsyqrJ/Xx+I60jpPDaXXyb5/Xm50GeIif/r7mIM0GzuPwZkJWzykPCTDA=="
   }
 }
