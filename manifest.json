@@ -4,12 +4,12 @@
   "product": "Literature Radar",
   "channel": "stable",
   "candidate": false,
-  "version": "0.9.11-beta",
-  "published_at": "2026-09-29T06:36:17.541548+00:00",
-  "expires_at": "2026-10-29T06:36:17.541548+00:00",
-  "sequence": 11,
+  "version": "0.9.12-beta",
+  "published_at": "2026-10-31T16:27:27.110592+00:00",
+  "expires_at": "2027-01-29T16:27:27.110592+00:00",
+  "sequence": 12,
   "signing_key_id": "release-2026-primary",
-  "notes": "改进 PDF 批量获取和自动更新的进度反馈、超时重试及错误提示；修复选中文献批量处理范围问题。",
+  "notes": "设置页简化；每份授权限1台设备；软件升级改为官方下载页；Zotero Bridge 1.4.6。",
   "release_kind": "patch",
   "minimum_license_major": 1,
   "rollout_percentage": 100,
@@ -17,13 +17,13 @@
   "package_type": "full",
   "package": {
     "urls": [
-      "https://updates.literatureradar.com/Literature-Radar-0.9.11-beta-Windows-update.zip",
-      "https://github.com/nangcing2-svg/literature-radar-updates/releases/download/v0.9.11-beta/Literature-Radar-0.9.11-beta-Windows-update.zip"
+      "https://updates.literatureradar.com/Literature-Radar-0.9.12-beta-Windows-update.zip",
+      "https://github.com/nangcing2-svg/literature-radar-updates/releases/download/v0.9.12-beta/Literature-Radar-0.9.12-beta-Windows-update.zip"
     ],
-    "sha256": "b759707d8a20820c403891c460ab139aed432179e0b19505f21a41eb4df121a4",
-    "size_bytes": 288155637
+    "sha256": "02151e4c21077a1e8ad688e5b613e8a9b8e005e64418c712c0bcf4c522dd6fff",
+    "size_bytes": 288160023
   },
   "signatures": {
-    "release-2026-primary": "PSUQeiZyhduRloNuNOleIrmjdM2WYktjLH2G0+jfpUfi90yWxC9g6lFQHw+jKtdADoqXedNxM7ejSraHji2EBQ=="
+    "release-2026-primary": "QLaO5cxdm80BCXKeSxiOmsfZbPEeeysYVXguEKs9PqYar7J/rtPdv9uL9JXTplGQZVAuVaL71XIuHuPmQYpoCg=="
   }
 }
