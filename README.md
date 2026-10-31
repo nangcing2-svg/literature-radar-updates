@@ -8,7 +8,7 @@
 
 它是一款运行在 **Windows 上的生物医学文献检索与整理工具**，主要面向医学、生命科学方向的研究生和科研人员。你可以用它开始一个课题的文献调研，也可以整理已经检索出来的一批候选文献。
 
-[查看下载与版本记录](https://github.com/nangcing2-svg/literature-radar-updates/releases)
+[下载 Windows 安装包](https://github.com/nangcing2-svg/literature-radar-updates/releases/download/v0.9.12-beta/Literature-Radar-0.9.12-beta-Setup.exe) · [版本记录](https://github.com/nangcing2-svg/literature-radar-updates/releases)
 
 ## 从一个熟悉的课题开始
 
@@ -32,9 +32,7 @@
 
 ## 下载和开始使用
 
-> **安装包发布状态：** 当前公开 Releases 中主要是旧版更新 ZIP。新的 Windows 安装 EXE 正在准备发布。新用户请等待正式 `Setup.exe` 上线，不要把 `Windows-update.zip` 当作安装程序。
 
-正式安装包上线后：
 
 1. 在 [Releases](https://github.com/nangcing2-svg/literature-radar-updates/releases) 选择正式版的 `Setup.exe`，双击安装。软件自带运行环境，不需要自己安装 Python、运行命令或配置开发环境。
 2. 第一次启动需要联网领取 **15 天试用**。
@@ -44,7 +42,7 @@
 
 ## 试用和费用，先说明白
 
-软件提供 **15 天试用**，当前 **V1 永久授权为 ¥99**。软件内的购买入口通向 [官方淘宝商品](https://h5.m.taobao.com/awp/core/detail.htm?ft=t&id=1079137690823)，确认付款后人工发送授权码。
+软件提供 **15 天试用**，当前 **V1 永久授权为 ¥99，每份授权限 1 台设备**。软件内的购买入口通向 [官方淘宝商品](https://h5.m.taobao.com/awp/core/detail.htm?ft=t&id=1079137690823)，确认付款后人工发送授权码。
 
 **软件授权不包含第三方 AI 调用费用。** 使用 AI 功能时需要自行配置 API Key，调用费用由服务商按实际使用收取。试用前也请考虑这部分成本。
 
